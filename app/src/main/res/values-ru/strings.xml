@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="toppings">Ништяки</string>
+    <string name="whipped_cream">Взбитые сливки</string>
+    <string name="chocolate">Шоколад</string>
+    <string name="order_summary">Итог заказа</string>
+    <string name="quantity">Количество</string>
+    <string name="submit">Заказ</string>
+    <string name="name">Имя</string>
+    <string name="thank_you">Спасибо!</string>
+
+</resources>
